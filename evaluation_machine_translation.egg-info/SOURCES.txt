@@ -1,0 +1,6 @@
+README.md
+setup.py
+evaluation_machine_translation.egg-info/PKG-INFO
+evaluation_machine_translation.egg-info/SOURCES.txt
+evaluation_machine_translation.egg-info/dependency_links.txt
+evaluation_machine_translation.egg-info/top_level.txt
